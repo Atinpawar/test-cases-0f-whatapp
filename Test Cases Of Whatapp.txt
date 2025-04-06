@@ -1,0 +1,27 @@
+    Test Cases Of Whatapp
+
+1.Verify that on downloading whatapp application and user can register using new mobile number 
+2.Verify that for mobile number user will get verification code on his mobile and filling in the same verifies the new user account
+3.check the maximum number of incorrect attempts allowed while filling filling out verification code 
+4.Verify that registering an existing mobile number for new user account
+5.Verify that successfull registration all the contact 
+6.Verify that the user can set DP and status on whatapp
+7.Verify that the user can update the existing DP and whatapp status
+8.Verify that user can send messages to any individual selected from the contact list
+9.Verify that 'Chat' window contains all the chat list with DP and name
+10.verify that clicking a chat in chat list opens a new window containing all the chat received and send with other person 
+11.Verify that user can check messge delivered and read the time for a message in the 'message info.' section
+12.Verify that the user can create a group by adding multiple person from contact list
+13.Verify that the user can send and received the message in the groyup chat
+14.Verify that the user can send and received images,audio,video in the chat with individuals.
+15.Verify that the user can share or recieve contact with the other person
+16.Verify that the user can send and received images,audio,video in group chat
+17.Verify that the user can send and receive chat in the secondary langauge available
+18. Verify that the user can delete ,text,image,audio,and video messages  within a chat
+19.Verify that the user can clear their complete chat history in an individual or group chat
+20.Verify that the user can archive chats in an individual or group chat
+21.Verify that the user makes whatapp calls to a person in his contact list
+22.Verify that the user can receive whatapp call from the person in  his contact list
+23.Verify that the user can mark chat as favorites and access all chat marked as favorites from 'Favorites' section
+
+
